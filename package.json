@@ -1,0 +1,25 @@
+{
+  "name": "nft-airdrop",
+  "version": "1.0.0",
+  "description": "N.F.T. AirDrop.+-Tutorial:_ https://youtu.be/7emKvvx-2S4",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ethereum",
+    "smart",
+    "contracts",
+    "test",
+    "solidity",
+    "truffle"
+  ],
+  "author": "ignacioceaglio@protonmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1"
+  }
+}
